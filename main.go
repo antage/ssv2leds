@@ -3,8 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/hanwen/go-mtpfs/usb"
 	"os"
+
+	"github.com/hanwen/usb"
 )
 
 const (
